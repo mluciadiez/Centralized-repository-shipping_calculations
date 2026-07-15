@@ -1,4 +1,5 @@
 # LogisticsShippingRates
+
 Please consider the below factors while contributing
 
 Code Style:
@@ -18,3 +19,8 @@ All contributions undergo a code review process.
 
 Licensing:
 Contributions are licensed.
+
+
+
+Changes 2026
+
